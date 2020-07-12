@@ -6,4 +6,4 @@
 - 💬 Ask me about R programming.
 - 📫 How to reach me: renatovp@ime.usp.br
 - ⚡ Fun fact: I have lived in three different states this year.
-- :chart_with_upwards_trend: About me: [rvpanaro.github.io](rvpanaro.github.io)
+- :chart_with_upwards_trend: About me: [rvpanaro.github.io](https://rvpanaro.github.io/)
