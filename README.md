@@ -2,7 +2,7 @@
 
   
 - 🔭 I’m currently mantaining 2 R packages, **spsurv** and **bsem** at CRAN.
-- 🌱 I’m have been trying to learn Go, I guess it might become as popular as C++ someday.
+- 🌱 I’ve been trying to learn Go, I guess it might become as popular as C++ someday.
 - 👯 I’m looking to collaborate on @rn00bs project.
 - 💬 Ask me about R programming, football and PS4 (I'm selling mine).
 - 📫 How to reach me: renatovp@ime.usp.br
