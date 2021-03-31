@@ -3,7 +3,7 @@
   
 - 🔭 I’m currently mantaining 2 R packages, **spsurv** and **bsem** at CRAN.
 - 🌱 I'm learning Hochdeutsch. = *Ich lerne Hochdeutsch.*
-- 👯 I’m looking to collaborate on @mangue project.
+- 👯 I’m looking to collaborate on [manguesolutions](https://github.com/manguesolutions) project.
 - 💬 Ask me about soccer, brazilian music and Rio de Janeiro.
 - 📫 How to reach me: rvpanaro@gmail.com
 - ⚡ Fun fact: I DO eat Pizza with  Ketchup!
