@@ -1,12 +1,12 @@
 ### Hi there 👋
 
   
-- 🔭 I’m currently mantaining 2 R packages, **spsurv** and **bsem** at CRAN.
+- 🔭 I’m currently a research assistant of the Institüt für Medizinische Statistik.
 - 🌱 *Ich verbessere mein Deutsch.*
-- 👯 I’m looking to collaborate on prognostic COVID-19 two-stage meta-analysis [project](https://medstat.umg.eu/forschung/laufende-projekte/bayesian-and-nonparametric-statistics-teaming-up-two-opposing-theories-for-the-benefit-of-prognostic-studies-in-covid-19/).
-- 💬 Ask me about soccer, brazilian music and Rio de Janeiro.
+- 👯 My research includes Bayesian methods for pharmaceutical research such as survival and latent variable variable analysis.
+- 💬 Ask me about soccer, drinks and Brazil.
 - 📫 How to reach me: renato.panaro@med.uni-goettingen.de
-- ⚡ Fun fact: We eat pizza with ketchup!
-- :chart_with_upwards_trend: About me: [https://medstat.umg.eu/panaro/](https://medstat.umg.eu/panaro/)
+- ⚡ Fun fact: My name was chosen after a soccer player who scored a belly goal one month before I was born.
+- :chart_with_upwards_trend: About me: [https://rvpanaro.github.io/](https://rvpanaro.github.io/)
 
 <img src="https://raw.githubusercontent.com/rvpanaro/rvpanaro/master/myoctocat.png" width=300 style="float:right"/>
