@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   
-- 🔭 Doctoral research assistant of the Institüt für Medizinische Statistik.
+- 🔭 Doctoral research assistant of the Institüt für Medizinische Statistik - Göttingen, Germany.
 - 🌱 *Ich verbessere mein Deutsch.*
 - 👯 My research includes Bayesian methods for pharmaceutical research such as survival and meta-analysis.
 - 💬 Ask me about football, and travelling.
