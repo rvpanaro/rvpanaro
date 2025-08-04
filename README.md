@@ -5,7 +5,7 @@
 - 🌱 *Ich verbessere mein Deutsch.*
 - 👯 My research includes Bayesian methods for pharmaceutical research such as survival and meta-analysis.
 - 💬 Ask me about football, and travelling.
-- 📫 How to reach me: renato.panaro@med.uni-goettingen.de
+- 📫 How to reach me: rvpanaro@gmail.com
 - ⚡ Fun fact: My name was chosen after a soccer player who scored a belly goal.
 - :chart_with_upwards_trend: About me: [https://rvpanaro.github.io/](https://rvpanaro.github.io/)
 
